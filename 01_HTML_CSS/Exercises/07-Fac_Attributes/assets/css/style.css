@@ -1,0 +1,36 @@
+.lesson  {
+  background-color: #E6E6E6; /* Light gray to complement the dragon */
+}
+
+#paragraph-1 {
+  color: darkslateblue;
+  background-color: white;
+}
+
+#paragraph-2 {
+  color: darkslateblue;
+  background-color: darkorange;
+}
+
+#paragraph-3 {
+    color: white;
+    background-color: darkslateblue;
+}
+
+#trait-1 {
+  color: #FF8C00; /* Dark Orange for the golden accents */
+  background-color: #2F4F4F; /* Dark Slate Gray for contrast */
+  color: #FFFFFF; /* White text for readability */
+}
+
+#trait-2 {
+  color: #FFD700; /* Gold color */
+  background-color: #008080; /* Teal to match the sky */
+  color: #FFFFFF; /* White text for readability */
+}
+
+#trait-3 {
+  color: #A9A9A9; /* Dark Gray for the scales */
+  background-color: #556B2F; /* Dark Olive Green for the background */
+  color: #FFFFFF; /* White text for readability */
+}

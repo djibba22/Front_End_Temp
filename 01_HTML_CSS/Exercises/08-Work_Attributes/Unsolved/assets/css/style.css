@@ -1,0 +1,31 @@
+.lesson {
+  background-color: #000000; /* Black */
+  color: #FFD700; /* Gold */
+}
+
+.title {
+  color: #BB952D; /* Gold */
+}
+
+#email {
+  background-color: #BB952D; /* Gold */
+  color: #000000; /* Black */
+}
+
+#github {
+  background-color: lightsteelblue;
+}
+
+#portfolio {
+  background-color: darkorange;
+}
+
+#instagram {
+  background-color: #BB952D; /* Gold */
+  color: #000000; /* Black */
+}
+
+#website {
+  background-color: #BB952D; /* Gold */
+  color: #000000; /* Black */
+}

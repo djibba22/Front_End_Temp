@@ -1,0 +1,39 @@
+/* Universal Selector */
+* {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+/* Element Selectors select all of that element type */
+body {
+  background-color: #000000; /* Black */
+}
+
+section {
+  height: 200px;
+  width: 300px;
+  background-color:#ffffff;
+  color: #404040; /* Dark Gray */
+}
+
+p {
+  font-size: 60px;
+  line-height: 200px;
+  color:#404040; /* Dark Gray*/
+}
+
+/* Class Selectors select all elements with that class */
+.box-white {
+  color: #404040;/* Dark Gray */
+  background-color: #ffffff; /* White */ 
+}
+
+.box-gray{
+  color: #404040; /* Dark Gray */
+  background-color: #cccccc; /* Light Gray */
+}
+
+/* Id Selectors are unique to identify an element */
+#box-gold{
+  color: #404040; /* Dark Gray */
+  background-color: #ffcc02; /* UCF Gold */
+}

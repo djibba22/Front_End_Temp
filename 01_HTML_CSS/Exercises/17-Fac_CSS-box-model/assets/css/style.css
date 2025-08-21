@@ -1,0 +1,61 @@
+* {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+
+}
+header {
+  height: 100px;
+  width: 100%;
+  /* Sets border to bottom only */
+  color:white;
+  border-bottom: 10px solid #ffcc02;
+  background-color: #000000;
+}
+
+section {
+  width: 70%;
+  /* Sets top and bottom margin to 20px. Auto will center element */
+  margin: 20px auto;
+  border-bottom: 5px solid gold;
+  background-color: black;
+  color:whitesmoke;
+}
+
+h1 {
+  text-align: center;
+  line-height: 100px;
+}
+
+h2 {
+  /* Sets bottom margin to 0 */
+  margin-bottom: 0;
+}
+
+h3 {
+  /* Sets top margin to 0 */
+  margin-top: 0;
+}
+
+.example-box {
+  /* Shortcut method sets top and bottom padding to 20px and left and right to 40px */
+  padding: 20px 40px;
+}
+
+img{
+  width: 200px;
+}
+
+.image-padding {
+  /* Sets padding on all sides to 20px */
+  padding: 20px;
+  background-color: peachpuff;
+}
+
+.image-border {
+  /* Sets border on all sides */
+  border: 10px solid salmon;
+}
+
+.image-margin {
+  /* Sets all sides to 20px */
+  margin: 20px;
+}

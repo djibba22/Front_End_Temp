@@ -1,0 +1,54 @@
+* {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+
+}
+
+body {
+  color: #f8fcfd;
+  background-color: #404040;
+}
+header {
+  width: 100%;
+  background-color: lightblue;
+}
+
+h2 {
+  text-align: left;
+}
+
+ul {
+  text-align: right;
+  color: #ffffff;
+}
+
+/* List items in navigation bar */
+li {
+  /* TODO: Add your code here */
+  list-style-type: none;
+  font-size: 40px;
+}
+
+/* Boxes */
+img {
+  /* TODO: Add your code here */
+  width: 200px;
+  margin: 0 auto;
+}
+
+#item-1 {
+  background-color: #404040;
+}
+
+#item-2 {
+  background-color: #000000;
+}
+
+#item-3 {
+  background-color: #ffcc02;
+}
+
+/* Box 3 */
+#image-3 {
+  /* TODO: Add your code here */
+  display: none;
+}
